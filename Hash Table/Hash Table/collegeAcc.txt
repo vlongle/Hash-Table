@@ -1,0 +1,19 @@
+Cornell,0
+UC Berkeley,0
+CMU,0
+USC,0
+UCLA,-1
+UMichigan,0
+Gatech,-1
+NYU,0
+UNC,0
+Northeastern,1
+UCI,0
+UCSD,1
+UW-Madison,0
+UMD,1
+UCD,1
+UMass Amherst,1
+UMinnesota,1
+Case Western,1
+Stony Brook,1

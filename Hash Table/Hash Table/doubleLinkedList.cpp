@@ -57,7 +57,7 @@ void DLList::del(Data* data){
         DLNode* current = head;
         for (int i =0; i < size; ++i){
             std::cout << "Node " << i << ": ";
-            std::cout << current-> data << std::endl;
+            std::cout << current-> data << "| " << current -> data -> key << " | " << current -> data -> value <<  std::endl;
             current = current -> right;
         }
     }

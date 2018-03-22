@@ -31,6 +31,7 @@
 		450F89DD20608A4700F68629 /* doubleLinkedList.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = doubleLinkedList.hpp; sourceTree = "<group>"; };
 		45E7C7CF2064479B001E5AF4 /* hashWithChaining.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = hashWithChaining.cpp; sourceTree = "<group>"; };
 		45E7C7D02064479B001E5AF4 /* hashWithChaining.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = hashWithChaining.hpp; sourceTree = "<group>"; };
+		45E7C7D220644EF4001E5AF4 /* collegeAcc.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = collegeAcc.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +65,7 @@
 			isa = PBXGroup;
 			children = (
 				450F89D52060895100F68629 /* main.cpp */,
+				45E7C7D220644EF4001E5AF4 /* collegeAcc.txt */,
 				450F89DC20608A4700F68629 /* doubleLinkedList.cpp */,
 				450F89DD20608A4700F68629 /* doubleLinkedList.hpp */,
 				45E7C7CF2064479B001E5AF4 /* hashWithChaining.cpp */,
